@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.center_box{
+    width: 874px;
+    height: 100%;
+    margin: 0 auto;
+}
+.logo_box{
+    height: 96px;
+}
+.banner_box,.banner_list{
+    overflow: hidden;
+    height: 460px;
+}
+.banner_box{
+    width: 1349px;
+}
+.banner_list{
+    width:8094px ;
+    margin-left: -1349px;
+}
+.banner_list li{
+    float: left;
+    width: 1349px;
+    height: 460px;
+}
+nav{
+    height: 33px;
+    width: 100%;
+    padding-top: 50px;
+}
+.nav_list{
+    overflow:hidden;
+    list-style: none;
+}
+.nav_item{
+    float: left;
+    font-size: 17px;
+    color: #666666;
+    padding: 0 33px 12px 33px;
+    cursor: pointer;
+}
+.now{
+
+}
